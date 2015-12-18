@@ -1,0 +1,11 @@
+setup.py
+NewsMonitor_Question_1.egg-info/PKG-INFO
+NewsMonitor_Question_1.egg-info/SOURCES.txt
+NewsMonitor_Question_1.egg-info/dependency_links.txt
+NewsMonitor_Question_1.egg-info/top_level.txt
+newsmonitorq1/__init__.py
+newsmonitorq1/files.py
+newsmonitorq1/search_news.py
+tests/__init__.py
+tests/test_files.py
+tests/test_search_news.py
